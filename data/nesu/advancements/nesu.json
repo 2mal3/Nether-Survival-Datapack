@@ -1,0 +1,1 @@
+{"display":{"title": "Nether Survival v1.0.0","description": "Start the game from the nether","icon":{"item": "minecraft:netherrack"},"announce_to_chat": false,"show_toast": false},"parent": "global:2mal3","criteria":{"trigger":{"trigger": "minecraft:tick"}}}
